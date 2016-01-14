@@ -1,0 +1,10 @@
+{release,{"hello_erlang_release","1"},
+         {erts,"7.2"},
+         [{kernel,"4.1.1"},
+          {stdlib,"2.7"},
+          {ranch,"1.1.0"},
+          {crypto,"3.6.2"},
+          {jsx,"2.8.0"},
+          {cowlib,"1.0.1"},
+          {cowboy,"1.0.1"},
+          {hello_erlang,"0.0.1"}]}. 
